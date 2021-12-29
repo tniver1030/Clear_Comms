@@ -15,10 +15,10 @@ TRAY_ICON = 'icon.png'
 
 debug = False
 
-directory = '/OBB'
-host = 'fuckbis.ddns.net'
-port = 42069
-passcode = '6A41C4F91A9DE6E38938A91D2392F99D'
+directory = 
+host = 
+port = 
+passcode = 
 
 if debug:
     host = '127.0.0.1'
